@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with instant Plugin for Alfred for macOS - note encryption and quick search, the #1 plugin. Includes note encryption and quick search for a smoother
 
 
 
